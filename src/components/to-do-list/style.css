@@ -1,0 +1,14 @@
+table {
+  position: relative;
+  border-collapse: collapse;
+  display: inline-table;
+  width: 35%;
+  right: 20%;
+  margin-top: 30px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}

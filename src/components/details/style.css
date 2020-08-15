@@ -1,0 +1,9 @@
+.details{
+    position: absolute;
+    padding: 10px;
+    display: inline-table;
+    left: 50%;
+    margin-top: 30px;
+    text-align: left;
+    border: 1px solid black;
+}
